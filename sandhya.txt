@@ -1,4 +1,6 @@
 git training,commit demo
 new branch line
-added 1 more
+added 1 one more
 bi txt
+git merge
+resolve conflicts
